@@ -1,11 +1,10 @@
 &nbsp;
 
-
 <div align="center">
 
-<a href="https://youtu.be/RBuBR3EDF9U">
+<a href="https://cults3d.com/es/modelo-3d/joyas/dallas-mavericks-keychain-enfoque3d">
         <img width="80%"
-            src="https://github.com/user-attachments/assets/3a231d13-39f2-4a31-933c-f64f4417ad59" />
+            src="https://github.com/user-attachments/assets/264f7b83-c405-467e-ae4b-501221c1f19f" />
     </a>
 
 
