@@ -1,11 +1,23 @@
 
-
-
 &nbsp;
 
 
 <div align="center">
 
+<a href="https://cults3d.com/es/modelo-3d/juegos/kriss-vector-no-supports">
+        <img width="80%"
+            src="https://github.com/user-attachments/assets/6dd7262a-4835-4c41-b693-5146426b6709" />
+    </a>
+
+&nbsp;
+
+
+<a href="https://cults3d.com/es/modelo-3d/herramientas/cable-organizer-enfoque-design-studio">
+        <img width="80%"
+            src="https://github.com/user-attachments/assets/af6062e2-c676-4721-a169-dd14512e9b52" />
+    </a>
+
+&nbsp;
 
 <a href="https://cults3d.com/es/modelo-3d/arte/knife-of-the-new-hephaestus-enfoque3d-2ad6">
         <img width="80%"
